@@ -9,9 +9,9 @@ When creating a project repository from this template choose "Public" so other p
 
 This template provides the following suggested organizaiton structure for the project repository, but each project team is free to organize their repository as they see fit.
 
-* **`contributors/`**
+* **`Sofia Darmaraki contributors/`**
 <br> Each team member can create their own folder under contributors, within which they can work on their own scripts, notebooks, and other files. Having a dedicated folder for each person helps to prevent conflicts when merging with the main branch. This is a good place for team members to start off exploring data and methods for the project.
-* **`notebooks/`**
+* **`Heat Budget, Attribution, Adjoint tool and Convolution access and plotting/`**
 <br> Notebooks that are considered delivered results for the project should go in here.
 * **`scripts/`**
 <br> Code that is shared by the team should go in here (e.g. functions or subroutines). These will be files other than Jupyter Notebooks such as Python scripts (.py).
